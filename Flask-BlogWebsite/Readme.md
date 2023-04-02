@@ -1,1 +1,1 @@
-In this Repository I have created a Blogging Website using Flask and Bootstrap by following the tutorial of Corey Shafer.
+In this Repository I have created a Blogging Website using Flask and Bootstrap by following the tutorial of Corey Shafer. While Creating this App I have learned a lot of concepts about Flask i.e FlaskForm, SQLite, ORM(SQL Alchemy), CRUD Operation, User Authentication in Flask, Pagination, Sending Email and BluePrint.  
